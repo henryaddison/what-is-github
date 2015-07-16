@@ -42,13 +42,11 @@ In particular, it’s a distributed version control system.
 --
 
 # What is GitHub?
-
 Most simply it solves sharing. 
 
 In theory everyone could push and pull from each other’s laptops but…
 * hard to connect over the Internet to a laptop (might not be switched on or online)
-* whose laptop is used by one of our servers wanting a copy of the code? what if there are changes on it not yet ready to go?
-
+* whose laptop is used by one of our servers wanting a copy of the code?
 
 --
 
