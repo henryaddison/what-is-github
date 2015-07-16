@@ -2,7 +2,8 @@ title: What Is GitHub?
 author:
     name: Henry Addison
     url: https://github.com/henryaddison
-    theme: sjaakvandenberg/cleaver-dark
+theme: sjaakvandenberg/cleaver-dark
+output: index.html
 --
 
 # What Is GitHub?
