@@ -28,7 +28,8 @@ It's a website: https://github.com
 
 # What is version control?
 
-It’s like appending a “2015-07-15-version-4-final-henrys-edits” to a filename but better.
+It’s like appending “2015-07-15-version-4-final-henrys-edits” to a filename before emailing it round. 
+But better.
 
 --
 
@@ -46,7 +47,7 @@ Most simply it solves sharing.
 
 In theory everyone could push and pull from each other’s laptops but…
 * hard to connect over the Internet to a laptop (might not be switched on or online)
-* whose laptop is used by a server wanting a copy of the code
+* whose laptop is used by one of our servers wanting a copy of the code? what if there are changes on it not yet ready to go?
 
 
 --
