@@ -77,6 +77,10 @@ But it’s so much more than that…
 
 --
 
+# Any Questions?
+
+--
+
 Thanks to
 
 * Linus Torvalds et al for git
