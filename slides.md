@@ -83,4 +83,5 @@ Thanks to
 * Linus Torvalds et al for git
 * GitHub
 * Jordan Scales for cleaver: https://github.com/jdan/cleaver
+* Sjaak van den Berg for slides theme: https://github.com/sjaakvandenberg/cleaver-dark
 
