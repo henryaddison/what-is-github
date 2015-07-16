@@ -18,7 +18,7 @@ It's a website: https://github.com
 
 --
 
-# What do I need to know?
+# That just begs more questions
 
 1. What is version control?
 1. What is git?
