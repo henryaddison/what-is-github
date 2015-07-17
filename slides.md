@@ -30,8 +30,7 @@ theme: jdan/cleaver-retro
 
 ### What is version control?
 
-It’s like appending “2015-07-15-version-4-final-henrys-edits” to a filename before emailing it round. 
-But better.
+It’s like appending “2015-07-15-version-4-final-henrys-edits” to a filename before emailing it round.
 
 --
 
