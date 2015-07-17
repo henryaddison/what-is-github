@@ -3,6 +3,8 @@ author:
     name: Henry Addison
     url: https://github.com/henryaddison
 output: index.html
+theme: jdan/cleaver-retro
+
 --
 
 # What Is GitHub?
@@ -87,5 +89,3 @@ But it’s so much more than that…
 * Linus Torvalds et al for git
 * GitHub
 * Jordan Scales for cleaver: https://github.com/jdan/cleaver
-* Sjaak van den Berg for slides theme: https://github.com/sjaakvandenberg/cleaver-dark
-
