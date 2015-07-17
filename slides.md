@@ -46,7 +46,7 @@ In particular, it’s a distributed version control system.
 
 Most simply it solves sharing.
 
-In theory everyone could get and receive changes directly from each other’s laptops but…
+In theory everyone could send and receive changes directly from each other’s laptops but…
 * hard to connect over the Internet to a laptop (e.g. not switched on)
 * how to ensure get everyone's changes
 * whose laptop is used by one of our servers?
