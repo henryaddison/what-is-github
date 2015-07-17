@@ -7,18 +7,18 @@ output: index.html
 
 # What Is GitHub?
 
-It's a website: https://github.com
+## It's a website: https://github.com
 
 --
 
-# What Is GitHub?
+### What Is GitHub?
 
 1. It’s a hub: it’s for sharing and collaborating.
 2. It’s a hub based around the git version control system.
 
 --
 
-# That just begs more questions
+### That just begs more questions
 
 1. What is version control?
 1. What is git?
@@ -26,14 +26,14 @@ It's a website: https://github.com
 
 --
 
-# What is version control?
+### What is version control?
 
 It’s like appending “2015-07-15-version-4-final-henrys-edits” to a filename before emailing it round. 
 But better.
 
 --
 
-# What is git?
+### What is git?
 
 It’s one of many version control systems. 
 
@@ -41,16 +41,18 @@ In particular, it’s a distributed version control system.
 
 --
 
-# What is GitHub?
-Most simply it solves sharing. 
+### What is GitHub?
 
-In theory everyone could push and pull from each other’s laptops but…
-* hard to connect over the Internet to a laptop (might not be switched on or online)
-* whose laptop is used by one of our servers wanting a copy of the code?
+Most simply it solves sharing.
+
+In theory everyone could get and receive changes directly from each other’s laptops but…
+* hard to connect over the Internet to a laptop (e.g. not switched on)
+* how to ensure get everyone's changes
+* whose laptop is used by one of our servers?
 
 --
 
-## What is GitHub?
+### What is GitHub?
 
 But it’s so much more than that…
 * open source software
@@ -69,7 +71,7 @@ But it’s so much more than that…
 
 --
 
-## Some interesting projects on GitHub
+### Some interesting projects on GitHub
 
 * https://github.com/keccers/heygirl
 * https://github.com/koriroys/gosleap
@@ -80,7 +82,7 @@ But it’s so much more than that…
 
 --
 
-Thanks to
+### Thanks to
 
 * Linus Torvalds et al for git
 * GitHub
